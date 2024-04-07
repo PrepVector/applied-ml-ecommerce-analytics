@@ -57,12 +57,10 @@ US geographical data - longitude, latitude
 
 **Data model diagram with three connected tables or entities: "ecommerce_data", "us_states", and "Calendar".**
 
-This type of diagram is commonly used in business intelligence tools like Power BI to design and visualize the structure of a data model before creating reports and dashboards based on the integrated data.
+This type of diagram is commonly used in business intelligence tools like Power BI to design and visualize the structure of a data model before creating reports and dashboards based on the integrated data. The connections between these tables are represented by the lines and symbols, indicating relationships that allow data to be combined and analyzed across the different entities in the data model.
 
 - The "ecommerce_data" table contains columns category, customer_city, customer_country, customer_first_name, customer_id, customer_last_name, customer_region, customer_segment, and customer_state.
 
 - The "us_states" table has columns for latitude, longitude, name, and state.
 
 - The "Calendar" table includes columns for Date, Month, Month Number, and Year.
-
-The connections between these tables are represented by the lines and symbols, indicating relationships that allow data to be combined and analyzed across the different entities in the data model.
