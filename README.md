@@ -55,7 +55,7 @@ US geographical data - longitude, latitude
 <img width="624" alt="image" src="https://github.com/PrepVector/Applied-ML/assets/82357659/9b9bfba9-ab9c-430e-b1fe-a59a189e047a">
 
 
-**Data model diagram with three connected tables or entities: "ecommerce_data", "us_states", and "Calendar".**
+### Data model diagram with three connected tables or entities: "ecommerce_data", "us_states", and "Calendar".
 <img width="441" alt="image" src="https://github.com/PrepVector/applied-ml-ecommerce-analytics/assets/82357659/d2b7c3f5-1a15-4a70-9af9-58f1a6d57069">
 
 This type of diagram is commonly used in business intelligence tools like Power BI to design and visualize the structure of a data model before creating reports and dashboards based on the integrated data. The connections between these tables are represented by the lines and symbols, indicating relationships that allow data to be combined and analyzed across the different entities in the data model.
