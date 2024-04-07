@@ -54,6 +54,7 @@ US geographical data - longitude, latitude
 ### Dashboard
 <img width="624" alt="image" src="https://github.com/PrepVector/Applied-ML/assets/82357659/9b9bfba9-ab9c-430e-b1fe-a59a189e047a">
 
+<img width="441" alt="image" src="https://github.com/PrepVector/applied-ml-ecommerce-analytics/assets/82357659/d2b7c3f5-1a15-4a70-9af9-58f1a6d57069">
 
 **Data model diagram with three connected tables or entities: "ecommerce_data", "us_states", and "Calendar".**
 
