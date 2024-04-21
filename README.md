@@ -64,10 +64,10 @@ This type of diagram is commonly used in business intelligence tools like Power 
 
 - The "ecommerce_data" table contains columns category, customer_city, customer_country, customer_first_name, customer_id, customer_last_name, customer_region, customer_segment, and customer_state.
 
-### Further contributions/developments
-- Customize the colour theme of the PowerBI dashboard.
-- Develop further insights if it is possible.
-
 - The "us_states" table has columns for latitude, longitude, name, and state.
 
 - The "Calendar" table includes columns for Date, Month, Month Number, and Year.
+
+### Further contributions/developments
+- Customize the colour theme of the PowerBI dashboard.
+- Develop further insights if it is possible.
