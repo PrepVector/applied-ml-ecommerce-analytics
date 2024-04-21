@@ -1,15 +1,3 @@
-### Steps in project
-- Problem description
-- Import Data in MS SQL Server
-- Connecting Power BI to MS SQL DB
-- Data Cleaning
-- Data Processing
-- Data Modelling
-- Creating Date Table
-- Data Visualization
-- Creating Dashboard
-- Generating Insights
-
 ### Problem Statement
 A US Based Ecommerce Sales Company wants us to create a Sales Dashboard to track the performance of YTD Sales and generate insights for below scenarios-
 
@@ -41,6 +29,18 @@ A US Based Ecommerce Sales Company wants us to create a Sales Dashboard to track
 - MS SQL Server - 19.0.2
 - Excel - Office 2021
 
+### Steps in project
+- Problem description
+- Import Data in MS SQL Server
+- Connecting Power BI to MS SQL DB
+- Data Cleaning
+- Data Processing
+- Data Modelling
+- Creating Date Table
+- Data Visualization
+- Creating Dashboard
+- Generating Insights
+
 ### Data walkthrough
 Original source - Kaggle
 
@@ -63,6 +63,10 @@ US geographical data - longitude, latitude
 This type of diagram is commonly used in business intelligence tools like Power BI to design and visualize the structure of a data model before creating reports and dashboards based on the integrated data. The connections between these tables are represented by the lines and symbols, indicating relationships that allow data to be combined and analyzed across the different entities in the data model.
 
 - The "ecommerce_data" table contains columns category, customer_city, customer_country, customer_first_name, customer_id, customer_last_name, customer_region, customer_segment, and customer_state.
+
+### Further contributions/developments
+- Customize the colour theme of the PowerBI dashboard.
+- Develop further insights if it is possible.
 
 - The "us_states" table has columns for latitude, longitude, name, and state.
 
